@@ -47,17 +47,16 @@
 > Integrations fail. I stabilize.”
 
 ---
+## 🧪 Live HUD (No External Cards)
 
-## 🧪 Live Stats (Neon HUD)
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yldray&show_icons=true&hide_border=true&title_color=00F5FF&text_color=C9D1D9&icon_color=FF4DFF&bg_color=0D1117" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yldray&layout=compact&hide_border=true&title_color=00F5FF&text_color=C9D1D9&bg_color=0D1117" height="165" />
-
+  <img src="https://media.tenor.com/2kBqJ9H0m2UAAAAC/anime-hud.gif" width="780" alt="neon hud"/>
 </div>
 
----
-
 <div align="center">
-  <img src="https://media.tenor.com/0V7Gm2mQbH0AAAAC/anime-neon-rain.gif" width="780" alt="footer" />
+
+**Status:** ONLINE ⚡  
+**Mode:** SQL/Backend/Integrations  
+**Uptime:** 24/7 (coffee-assisted) ☕
+
 </div>
