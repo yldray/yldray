@@ -1,62 +1,71 @@
-<!-- ─────────────────────────────────────────────────────────────
-     Neon / Anime / Cyberpunk GitHub Profile README (no projects)
-     Username: yldray
-────────────────────────────────────────────────────────────── -->
+<h2 align="center">Yıldıray Taşbaş</h2>
 
-<div align="center">
-
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cyberpunk-anime.gif" width="780" alt="neon anime header" />
-
-<h1>✨ Yıldıray Taşbaş ✨</h1>
-
-<p>
-  <a href="https://www.linkedin.com/in/tasbasyildiray/">LinkedIn</a>
-  •
+<p align="center">
+  Full Stack .NET Developer • Istanbul <br/>
+  <a href="https://www.linkedin.com/in/tasbasyildiray/">LinkedIn</a> ·
   <a href="mailto:tasbasyildiray@gmail.com">tasbasyildiray@gmail.com</a>
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+Developer;SQL+Performance+%26+Locking+Hunter;Integrations%3A+SOAP%2FREST+%7C+Subscriptions;IIS+%2B+Windows+Server+Ops;Neon+mode%3A+ON" alt="typing" />
-</p>
-
+<div align="center">
+  <img src="https://media.tenor.com/6xkY5uZk8xkAAAAC/anime-glitch.gif" height="40" alt="glitch line"/>
 </div>
 
----
+<details open>
+<summary><b>🇹🇷 Türkçe</b></summary>
+
+## 👤 Kimsin?
+- Production odaklı **Full Stack .NET Developer**
+- **SQL performansı / raporlama** ve **legacy refactor** işlerinde güçlüyüm
+- Entegrasyonlarda (**SOAP/REST + ödeme/subscription**) stabilite ve hata dayanıklılığına önem veririm
+
+## 🧪 Şu an ne üzerinde çalışıyorsun?
+- Büyük veri setlerinde **timeout/locking** problemlerini azaltma
+- MVC/Web API tarafında **daha sade ve sürdürülebilir** yapı kurma
+- Arkaplanda çalışan süreçlerde **job/worker** güvenilirliğini artırma (Hangfire)
+
+## 🧰 Hangi araçları kullanıyorsun?
+**Backend:** C#, ASP.NET MVC/Core, Web API  
+**Data:** SQL Server (index, execution plan, locking)  
+**Ops:** IIS, Windows Server, temel monitoring/logging
+
+## 📫 Bana nasıl ulaşırsın?
+- LinkedIn: https://www.linkedin.com/in/tasbasyildiray/
+- Email: tasbasyildiray@gmail.com
+
+</details>
 
 <div align="center">
-  <img src="https://media.tenor.com/6xkY5uZk8xkAAAAC/anime-glitch.gif" width="260" alt="glitch" />
-  <img src="https://media.tenor.com/8x7J2bZ7n2YAAAAC/anime-hacker.gif" width="260" alt="hacker" />
-  <img src="https://media.tenor.com/3l1yYJ9n8h8AAAAC/anime-city.gif" width="260" alt="city" />
+  <img src="https://media.tenor.com/0V7Gm2mQbH0AAAAC/anime-neon-rain.gif" height="40" alt="neon rain line"/>
 </div>
 
-## 🧠 Focus Protocol
-- **SQL / Raporlama:** query tuning • index strategy • timeout/locking analysis  
-- **Backend:** ASP.NET MVC/Core • Web API • background jobs (Hangfire)  
-- **Integrations:** SOAP/REST clients • payment/subscription flows  
-- **Ops:** IIS/Windows Server • deployments • incident RCA  
+<details>
+<summary><b>🇬🇧 English</b></summary>
 
----
+## 👤 Who are you?
+- A production-minded **Full Stack .NET Developer**
+- Strong in **SQL performance/reporting** and **legacy refactoring**
+- I care about reliability in integrations (**SOAP/REST + payments/subscriptions**)
 
+## 🧪 What are you currently working on?
+- Reducing **timeouts/locking** on large datasets
+- Building **cleaner and more maintainable** MVC/Web API code
+- Improving **job/worker** reliability (Hangfire)
+
+## 🧰 What tools do you use?
+**Backend:** C#, ASP.NET MVC/Core, Web API  
+**Data:** SQL Server (indexes, execution plans, locking)  
+**Ops:** IIS, Windows Server, basic monitoring/logging
+
+## 📫 How to reach you?
+- LinkedIn: https://www.linkedin.com/in/tasbasyildiray/
+- Email: tasbasyildiray@gmail.com
+
+</details>
+
+<!-- Optional: External stats cards (sometimes fail due to rate limits) -->
+<!--
+## 📈 Neon Stats (optional)
 <div align="center">
-  <img src="https://media.tenor.com/3nWqJ6pGxK4AAAAC/neon-anime.gif" width="780" alt="divider" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yldray&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=21600" height="150" />
 </div>
-
-## ⚡ Vibe (No Projects, Just Energy)
-> “Production breaks. I fix.  
-> Performance drops. I optimize.  
-> Integrations fail. I stabilize.”
-
----
-## 🧪 Live HUD (No External Cards)
-
-<div align="center">
-  <img src="https://media.tenor.com/2kBqJ9H0m2UAAAAC/anime-hud.gif" width="780" alt="neon hud"/>
-</div>
-
-<div align="center">
-
-**Status:** ONLINE ⚡  
-**Mode:** SQL/Backend/Integrations  
-**Uptime:** 24/7 (coffee-assisted) ☕
-
-</div>
+-->
