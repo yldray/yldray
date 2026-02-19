@@ -8,34 +8,20 @@
 
 ---
 
-## 👋 Hakkımda
-Legacy sistemleri iyileştirme, SQL performansı ve entegrasyon işleri (SOAP/REST, ödeme) üzerine odaklanıyorum.
-Üretimde sorun çözme, deployment ve IIS/Windows Server tarafı da günlük işimin parçası.
+```txt
+yldray@github:~$ whoami
+Full Stack .NET Developer (C# / ASP.NET / MSSQL)
 
-## 🧰 Tech Stack
-![C#](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-111?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-111?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-111?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-111?style=for-the-badge&logo=windows&logoColor=white)
+yldray@github:~$ focus
+- SQL performance: query tuning, index strategy, timeout & locking analysis
+- Backend: ASP.NET MVC/Core, Web API, background jobs (Hangfire)
+- Integrations: SOAP/REST clients, payment/subscription flows
+- Ops: IIS/Windows Server, deployments, incident RCA
 
-## 🧩 Odak Alanlarım
-- **SQL & Raporlama:** sorgu optimizasyonu, index stratejileri, timeout/locking analizi
-- **Backend:** ASP.NET MVC/Core, Web API, job/worker yapıları (Hangfire)
-- **Entegrasyon:** ödeme (subscription), partner servisleri, SOAP/REST client’ları
-- **Operasyon:** IIS/Windows Server, deployment, üretim sorunlarında kök neden analizi
+yldray@github:~$ working_style
+- Production-first mindset
+- Legacy refactor without breaking business flow
+- Measurable improvements (latency, stability, cost)
 
-## ⭐ Öne Çıkanlar
-- 🔹 **TweetAPI** — Twitter API ile denemeler: https://github.com/yldray/TweetAPI
-- 🔹 **LoggerLibrary** — Basit logger kütüphanesi: https://github.com/yldray/LoggerLibrary
-- 🔹 **MyFinalProject** — SOLID pratikleri: https://github.com/yldray/MyFinalProject
-- 🔹 **BerkserkerLib** — C# library denemeleri: https://github.com/yldray/BerkserkerLib
-
-> İstersen buraya 1-2 satır “iş etkisi” ekleyelim: performans, refactor, production incident çözümü gibi.
-
----
-
-## 📈 GitHub İstatistikleri
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yldray&show_icons=true&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yldray&layout=compact&hide_border=true)
+yldray@github:~$ currently_learning
+- Building more reliable automation & monitoring
